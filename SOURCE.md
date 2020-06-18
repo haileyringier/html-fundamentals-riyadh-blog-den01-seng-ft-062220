@@ -32,7 +32,7 @@ PARAGRAPH 2
 
 IMAGE 2 FILE
 
-`garden.jpg`
+`ggarden.jp`
 
 IMAGE 2 ALT TEXT
 
